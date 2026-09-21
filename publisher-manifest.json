@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0c0bbf70f83ef73267f56742",
+  "owner": "apftndw",
+  "repo": "page-f3967e4841c658f22f7dacaa",
+  "title": "翻儿",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3967e4841c658f22f7dacaa",
+      "a": "翻儿",
+      "b": "机场官网线路发布页",
+      "entity": "翻儿",
+      "brand": "翻儿",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a392f9b2818bbaba3fcc741678d6f1a45bf78799fecc91265566787cd6f11fcb",
+      "content": {
+        "primary_entity": "翻儿",
+        "keyword1": "翻儿",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，手机、桌面与路由器有各自适配的订阅方式。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "对比套餐后选择适合当前设备数量的版本，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更顺",
+          "AI_DESCRIPTION": "，翻儿提供基础版、旗舰版与团队版三档套餐，月付分别 15 元、35 元与 85 元，按年付分别为 150 元、350 元与 850 元。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速；团队版每月 1000GB、20 台设备，可定制企业路由。客户端按手机、桌面和路由器分别选择，订阅导入依各客户端文档操作。",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数选择：基础版支持 3 台，旗舰版 5 台，团队版 20 台。若手机与电脑同时使用，旗舰版可覆盖大多数日常场景。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，常看视频或多设备同时用选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_3": "在订单中获取订阅链接，再按客户端文档将链接导入对应应用。不同客户端导入方式略有差别，建议先查看所用客户端的新手说明。",
+          "AI_FAQ_ANSWER_4": "基础版面向手机与电脑，旗舰版增加 IPLC 专线节点，更适合在线游戏与流媒体。团队版提供高带宽节点与定制路由，适合小型团队。",
+          "AI_FAQ_ANSWER_5": "按年付相当于十个自然月的费用：基础版 150 元、旗舰版 350 元、团队版 850 元。长期使用可以优先考虑年付，短期试用按月付即可。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量、订阅导入与计费周期。",
+          "AI_FAQ_QUESTION_1": "翻儿套餐怎么按设备数量选？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "按年付比月付划算多少？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三方面说明三档套餐的差异，方便按需选择。",
+          "AI_FEATURES_TITLE": "套餐差异一眼看清",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选档即可。",
+          "AI_FEATURE_TITLE_1": "月流量分档",
+          "AI_FEATURE_TEXT_2": "分别支持 3 台、5 台与 20 台设备同时在线，按常用设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版提供高带宽节点，基础版为普通线路节点池。",
+          "AI_FEATURE_TITLE_3": "线路层级不同",
+          "AI_GUIDE_INTRO": "先根据流量与设备数选择套餐，再按设备类型查看适配，最后依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "翻儿提供基础版、旗舰版与团队版三档套餐，月付 15 元起，分别支持 3 台、5 台与 20 台设备同时在线，流量从 100GB 到 1000GB。按手机、桌面与路由器选择客户端，再按文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_1": "月付 15 元起，按年付更省",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版 15 元/月、旗舰版 35 元/月、团队版 85 元/月，年付分别为 150 元、350 元与 850 元。按流量与设备数对比后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量需求与同时在线设备数，基础版、旗舰版与团队版分别覆盖 3 台、5 台与 20 台。",
+          "AI_STEP_TEXT_2": "确认所用设备是手机、桌面还是路由器，对应选择客户端，并留意该客户端的订阅导入要求。",
+          "AI_STEP_TEXT_3": "拿到订阅链接后，按对应客户端文档逐步导入，完成后按需切换节点线路。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "翻儿三档套餐任选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cndas.cn",
+    "host": "cndas.cn"
+  },
+  "file_hashes": {
+    "index.html": "5d3cfb9bd20f36d5ce9aa617dd454261c2c14958587c4d4c6008220c92f0e686",
+    "sitemap.xml": "4c98caeb511e01ea02bbb82807fec371d7deae0f84e22a7e61ec64b0214afb15",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83b301306234cce04c766f164c2fc97b16416fed26cb1b169a87f3da477723e6",
+    "robots.txt": "2b5bd7f052a968e5b24f4cca0762a14ca7efa8d656c14975d48502a48a3ebae0",
+    "445e893e8ebfd0c1a7e94c5ba38c4e50.txt": "77b33f32f4345854ef9bef86ed0bf1311ecc6737c7a30e7743aca7af57aecf5c"
+  },
+  "revision": "6ae3bc3785dd5d5aeea00c726739363478a3dfcff9996879a1d4779a32a98e50"
+}
